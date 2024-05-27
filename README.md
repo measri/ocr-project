@@ -10,7 +10,7 @@ Clonez le repository :
 git clone https://github.com/measri/ocr-project.git
 cd ocr-project
 
-## Usage
+Usage : 
 Run the script with the following command:
 
 ```bash
