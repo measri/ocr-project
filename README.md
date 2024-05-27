@@ -10,9 +10,9 @@ Clonez le repository :
 git clone https://github.com/measri/ocr-project.git
 cd ocr-project
 
-Usage : 
-Run the script with the following command:
 
+Exécutez le script avec la commande suivante :
 ```bash
-Copier le code
 python3 main.py
+
+
