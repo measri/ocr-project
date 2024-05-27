@@ -9,10 +9,13 @@ Clonez le repository :
 ```bash
 git clone https://github.com/measri/ocr-project.git
 cd ocr-project
-
-
+```
+Installer les dépendances
+```bash
+pip install -r requirements.txt
+```
 Exécutez le script avec la commande suivante :
 ```bash
 python3 main.py
-
+```
 
