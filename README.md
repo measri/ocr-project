@@ -4,8 +4,15 @@ Ce projet utilise EasyOCR pour détecter et extraire le texte d'une image de car
 
 ## Installation
 
-1. Clonez le repository :
+Clonez le repository :
 
 ```bash
 git clone https://github.com/measri/ocr-project.git
 cd ocr-project
+
+## Usage
+Run the script with the following command:
+
+```bash
+Copier le code
+python3 main.py
